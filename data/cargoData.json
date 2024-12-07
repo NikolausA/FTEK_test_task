@@ -1,0 +1,26 @@
+[
+  {
+    "id": "CARGO001",
+    "name": "Строительные материалы",
+    "status": "Доставлен",
+    "origin": "Москва",
+    "destination": "Казань",
+    "departureDate": "2024-11-24"
+  },
+  {
+    "id": "CARGO002",
+    "name": "Хрупкий груз",
+    "status": "В пути",
+    "origin": "Санкт-Петербург",
+    "destination": "Екатеринбург",
+    "departureDate": "2024-11-26"
+  },
+  {
+    "id": "CARGO1733427894446",
+    "name": "Gifts",
+    "status": "Ожидает отправки",
+    "origin": "Москва",
+    "destination": "Екатеринбург",
+    "departureDate": "2024-12-28"
+  }
+]
